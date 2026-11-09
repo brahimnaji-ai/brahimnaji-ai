@@ -24,7 +24,7 @@
 🔧 Backend engineer focused on Java · Spring Boot · Microservices · Distributed Systems<br>
 🤖 Building AI-powered applications with RAG · AI Agents · Spring AI · LLMs<br>
 🔐 Interested in AI Security · Application Security · Secure-by-Design architectures<br>
-🧠 Currently building ONDA Agentic RAG — a secure document intelligence backend (Agentic RAG · Hybrid Search · Keycloak · Spring AI)<br>
+🧠 Currently building DirBalek, a Darija/French scam-SMS detection platform with a full MLOps lifecycle (Spring Boot · FastAPI · MLflow · DVC · Evidently)<br>
 🐍 Expanding into Python · FastAPI for production AI applications<br>
 🌍 Based in Fès, Morocco — building production-grade systems from North Africa<br>
 🎯 Long-term goal: design, build, deploy & secure large-scale AI-powered distributed systems
